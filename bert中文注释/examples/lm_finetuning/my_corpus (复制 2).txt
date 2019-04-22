@@ -1,0 +1,10 @@
+Google News is a news aggregator and app developed by Google.
+It presents a continuous, customizable flow of articles organized from thousands of publishers and magazines.
+Google News is available on Android, iOS, and the web.
+
+A cease and desist letter is a document sent to an individual or business to stop purportedly illegal activity ("cease") and not to restart it ("desist"). 
+The letter may warn that if the recipient does not discontinue specified conduct, 
+or take certain actions, by deadlines set in the letter, 
+that party may be sued.[1][2] When issued by a public authority, 
+a cease and desist letter, being "a warning of impending judicial enforcement",
+[3] is most appropriately called a "cease and desist order".
